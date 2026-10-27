@@ -1,0 +1,14 @@
+Test12~0.none
+Test123~10.SMG
+Test123~1.SMG
+Test123~8.SMG
+Test123~2.SMG
+Test123~7.SMG
+Test123~3.SMG
+Test123~5.SMG
+Test123~4.SMG
+Test123~9.SMG
+Test123~6.SMG
+Tom101~0.none
+Thomas101~6.SHOTGUN
+Test1~0.none

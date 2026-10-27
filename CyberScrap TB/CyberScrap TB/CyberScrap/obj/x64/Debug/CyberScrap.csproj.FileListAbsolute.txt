@@ -1,0 +1,155 @@
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\bin\x64\Debug\CyberScrap.exe.config
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\bin\x64\Debug\CyberScrap.exe
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\bin\x64\Debug\CyberScrap.pdb
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.csproj.AssemblyReference.cache
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.Game.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.GameWinLose.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.Help.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.Leaderboard.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.Login.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.MainMenu.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.Register.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.Properties.Resources.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.csproj.GenerateResource.cache
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.csproj.CoreCompileInputs.cache
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.exe
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.pdb
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\bin\x64\Debug\CyberScrap.exe.config
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\bin\x64\Debug\CyberScrap.exe
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\bin\x64\Debug\CyberScrap.pdb
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.csproj.AssemblyReference.cache
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.csproj.SuggestedBindingRedirects.cache
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.Game.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.GameWinLose.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.Help.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.Leaderboard.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.Login.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.MainMenu.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.Register.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.Properties.Resources.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.csproj.GenerateResource.cache
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.csproj.CoreCompileInputs.cache
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.exe
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.pdb
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.CharacterSelect.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.Prologue_Epilogue.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.CharacterSelect.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap\CyberScrap\obj\x64\Debug\CyberScrap.Prologue_Epilogue.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\CyberScrap.exe.config
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\CyberScrap.exe
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\CyberScrap.pdb
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.AssemblyReference.cache
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.CharacterSelect.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Game.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.GameWinLose.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Help.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Leaderboard.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Login.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.MainMenu.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Prologue_Epilogue.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Register.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Properties.Resources.resources
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.GenerateResource.cache
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.CoreCompileInputs.cache
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.exe
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.pdb
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.AssemblyReference.cache
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.SuggestedBindingRedirects.cache
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.CharacterSelect.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Game.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.GameWinLose.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Help.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Leaderboard.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Login.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.MainMenu.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Prologue_Epilogue.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Register.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Properties.Resources.resources
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.GenerateResource.cache
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.CoreCompileInputs.cache
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.exe
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.pdb
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\CyberScrap.exe.config
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\CyberScrap.exe
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\CyberScrap.pdb
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.ResolveComReference.cache
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\Interop.WMPLib.dll
+C:\Users\thoma\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\Interop.WMPLib.dll
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\tbarnes751\OneDrive - C2k\A Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.ResolveComReference.cache
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\CyberScrap.exe.config
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\CyberScrap.exe
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\CyberScrap.pdb
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\Interop.WMPLib.dll
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.AssemblyReference.cache
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.SuggestedBindingRedirects.cache
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.ResolveComReference.cache
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.CharacterSelect.resources
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Game.resources
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.GameWinLose.resources
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Help.resources
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Leaderboard.resources
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Login.resources
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.MainMenu.resources
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Prologue_Epilogue.resources
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Register.resources
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Properties.Resources.resources
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.GenerateResource.cache
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.CoreCompileInputs.cache
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.exe
+C:\Users\thoma\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.pdb
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\CyberScrap.exe.config
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\CyberScrap.exe
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\CyberScrap.pdb
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\Interop.WMPLib.dll
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.AssemblyReference.cache
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.ResolveComReference.cache
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.CharacterSelect.resources
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Game.resources
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.GameWinLose.resources
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Help.resources
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Leaderboard.resources
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Login.resources
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.MainMenu.resources
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Prologue_Epilogue.resources
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Register.resources
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Properties.Resources.resources
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.GenerateResource.cache
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.CoreCompileInputs.cache
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.exe
+C:\Users\tbarnes751\OneDrive - C2k\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.pdb
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\CyberScrap.exe.config
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\CyberScrap.exe
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\CyberScrap.pdb
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\Interop.WMPLib.dll
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\bin\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.AssemblyReference.cache
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.SuggestedBindingRedirects.cache
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\AxInterop.WMPLib.dll
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.ResolveComReference.cache
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.CharacterSelect.resources
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Game.resources
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.GameWinLose.resources
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Help.resources
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Leaderboard.resources
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Login.resources
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.MainMenu.resources
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Prologue_Epilogue.resources
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Register.resources
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.Properties.Resources.resources
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.GenerateResource.cache
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.exe
+C:\Users\thoma\Desktop\One Drive Backup\AS Level SSD\Coursework\CyberScrap TB\CyberScrap TB\CyberScrap\obj\x64\Debug\CyberScrap.pdb
